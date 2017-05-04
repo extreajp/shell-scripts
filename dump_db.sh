@@ -2,11 +2,9 @@
 
 ### Get RDS DB dump and manage S3 backets script / @extreajp
 # 
-# for ubuntu enviroments
-# 
 # Usage:
-#  $ sudo su - ops-user
-#  $ git clone https://github.com/extreajp/dump_db.git
+#  $ su - ops-user
+#  $ git clone https://github.com/extreajp/shell-scripts.git
 #  $ cp -p dump_db/dump_db.sh /path/to/scripts/
 #  $ chmod u+x dump_db.sh
 #  $ crontab -e
